@@ -1,0 +1,13 @@
+/* Tambahkan kode CSS kalian di file ini */
+body {
+    background-color: rgb(36, 24, 34);
+    color: #FFFFFF;
+}
+
+#video-background {
+    position: relative;
+}
+
+#video {
+    position: absolute;
+}
